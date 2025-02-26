@@ -7,7 +7,7 @@
 <h2> Descrição do projeto </h2>
 Um desafio voltado para estudantes de programação do programa ONE, uma iniciativa da Alura em parceria com a ORACLE. O objetivo era desenvolver um programa que permitisse adicionar nomes a uma lista e realizar o sorteio de um amigo secreto entre os participantes.
 
-<h2 align= "center">Projeto em construção</h2>
+<h2 align= "center"> :heavy_check_mark: Projeto Finalizado :heavy_check_mark: </h2>
 
 # :hammer: Funcionalidades do projeto
 
@@ -18,7 +18,7 @@ Um desafio voltado para estudantes de programação do programa ONE, uma iniciat
 
 # :file_folder: Acesso ao projeto
 
-Link para acesso: https://challenge-amigo-secreto-silk.vercel.app/
+Link para acesso: https://challenge-amigo-secreto-silk.vercel.app/ <br>
 Link para baixar o projeto: https://github.com/CassioAssuncao/CHALLENGE-AMIGO-SECRETO/archive/refs/heads/main.zip
 
 # :computer: Abrir e rodar o projeto
@@ -34,7 +34,7 @@ No VS code vai na opção abrir a pasta, navegar até a pasta do projeto e selec
 
 # Autores
 
-Cassio Assunção
+Cassio Assunção <br>
 https://github.com/CassioAssuncao
 
 
